@@ -1,0 +1,10 @@
+buenas tardes, la solucion que encontre para el desafio planteado fue
+ por medio de una matriz bidimenional en Js.
+donde se plantea la creacion de un array de nombre tablero, 
+que se compone de 8 filas y 8 columnas. para colorear segun consigna
+ se usa un bluce for que recorre la itracion i para la filas y j para las columnas. 
+ para colorear el tablero se usa una condicion en la que i+j si es impar o = 0 crea 
+ un cuadro rojo (por consola), caso contrario sera azul es decir 
+ cuando i = 0 y j = 0 no e cumple pero si i = 1 y j = 1 al sera par y la consola ecribira azul.
+ esto aplica teoricamente a cualquier cantidad de cuadros.
+ 
